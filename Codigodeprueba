@@ -2,6 +2,7 @@ lst=[0,1]
 lst2=[i for i in lst]
 i=0
 x=0
+#LALALALALALAALA
 #ESTO ES UN CAMBIOOOOOOO
 while i < len(lst):
     if lst2[x]==0:
